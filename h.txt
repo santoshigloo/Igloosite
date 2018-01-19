@@ -1,0 +1,9 @@
+1.improve page speed
+mobile and desktop
+2.remove broken link and error check
+ 3.https issue resolution
+check on whynopadlock.com
+4.remove .html from all pages
+5.place igloo logo img on website tab and provide descriptions each and every page
+6.website descrption on google
+7.seo improvements checklists preperations
